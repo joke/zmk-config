@@ -5,8 +5,11 @@
  */
 
 #include <behaviors.dtsi>
+#include <behaviors/unicode.dtsi>
 #include <dt-bindings/zmk/keys.h>
 #include <dt-bindings/zmk/bt.h>
+#include "keys_de.h"
+#include <zmk-unicode/keys-extra.h>
 
 / {
         keymap {
