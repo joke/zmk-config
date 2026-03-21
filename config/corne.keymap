@@ -5,7 +5,6 @@
  */
 
 #include <behaviors/unicode.dtsi>
-#include "keys_de.h"
 #include <zmk-unicode/keys-extra.h>
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/bt.h>
