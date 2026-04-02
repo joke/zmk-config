@@ -19,7 +19,7 @@
             #binding-cells = <0>;
             bindings = <
                 &bt BT_SEL 0
-                &uc_mode_linux
+                &uc UC_SET_LINUX
             >;
         };
 
@@ -29,7 +29,7 @@
             #binding-cells = <0>;
             bindings = <
                 &bt BT_SEL 1
-                &uc_mode_macos
+                &uc UC_SET_LINUX
             >;
         };
     };
